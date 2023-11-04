@@ -1,5 +1,5 @@
 <h1 align="center">Martin Zapata Ferguson</h1>
-<h3 align="center">Theoretical physicist in the making</h3>
+<h3 align="center">Physicist in the making</h3>
 <p align="center"> <img src="3body.gif" alt="3body" /> </p>
 
 - ⚙️ Currently working on **Nonlinear Schrödinger eq., Cubesat attitude control**
