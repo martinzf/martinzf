@@ -1,3 +1,4 @@
+<p align="center"> <img src="3body.gif" alt="3body" width="200" height="80" /> </p>
 <h1 align="center">Martin Zapata Ferguson</h1>
 <h3 align="center">Theoretical physicist in the making</h3>
 
