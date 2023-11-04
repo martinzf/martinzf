@@ -1,7 +1,6 @@
 <h1 align="center">Martin Zapata Ferguson</h1>
 <h3 align="center">Theoretical physicist in the making</h3>
 <p align="center"> <img src="3body.gif" alt="3body" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinzf&label=Profile%20views&color=0e75b6&style=flat" alt="martinzf" /> </p>
 
 - ⚙️ Currently working on **Nonlinear Schrödinger eq., Cubesat attitude control**
 
