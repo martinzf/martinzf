@@ -1,4 +1,4 @@
-<h1 align="center">Martin Zapata Ferguson</h1>
+<h1 align="center">Hi there 👋, I'm Martin</h1>
 <h3 align="center">WARNING: Physics in progress</h3>
 <p align="center"> <img src="3body.gif" alt="3body" /> </p>
 
