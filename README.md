@@ -4,7 +4,7 @@
 
 - ⚙️ Currently working on **Nonlinear Schrödinger eq., Cubesat attitude control**
 
-- 📚 Currently learning **Statistical Mechanics, Quantum Physics II ...**
+- 📚 Currently learning **Diff Geo, Quantum Mechanics ...**
 
 - 📧 Reach me at **martzapa@ucm.es**
 
