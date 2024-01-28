@@ -5,9 +5,9 @@
   <tr>
     <td style="width:50%;">
       
-- ⚙️ Currently working on **Nonlinear Schrödinger eq., Cubesat attitude control**
+- ⚙️ Working on **Nonlinear Schrödinger eq., Cubesat attitude control**
 
-- 📚 Currently learning **Diff Geo, Quantum Mechanics ...**
+- 📚 Learning **Diff Geo, Quantum Mechanics ...**
 
 - 📧 Reach me at **martzapa@ucm.es**
 
