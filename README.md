@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/martinzf" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30" width="40" /></a> 
+<a href="https://www.researchgate.net/profile/Martin-Zapata-Ferguson" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="researchgate" height="30" width="40" /></a>
 <a href="https://github.com/martinzf" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
