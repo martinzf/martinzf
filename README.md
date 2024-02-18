@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Martin</h1>
 <h3 align="center">ATTENTION: Physics in progress</h3>
-
-<table>
-  <tr>
-    <td style="width:50%;">
+![](3body.gif)
       
 - ⚙️ Working on **Nonlinear Schrödinger eq., Cubesat attitude control**
 
@@ -12,10 +9,6 @@
 - 📧 Reach me at **martzapa@ucm.es**
 
 - ⚡ Fun fact **Pianist 🎹 & Judoka 🥋**
-  </td>
-    <td style="width:50%;"><p align="center"><img src="3body.gif" alt="3body"/></p></td>
-  </tr>
-</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
