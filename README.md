@@ -5,7 +5,7 @@
       
 - ⚙️ Working on **Nonlinear Schrödinger eq., Cubesat attitude control**
 
-- 📚 Learning **Diff Geo, Quantum Mechanics...**
+- 📚 Learning **Theoretical Mechanics, Electrodynamics...**
 
 - 📧 Reach me at **martzapa@ucm.es**
 
