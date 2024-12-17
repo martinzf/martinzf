@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Martin</h1>
-<h3 align="center">ATTENTION: Physics in progress</h3>
+<h3 align="center">Feynman Said 'Shut Up and Calculate' — So I Wrote Code Instead</h3>
 
 ![](3body.gif)
       
