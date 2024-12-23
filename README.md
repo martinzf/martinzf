@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Martin</h1>
-<h3 align="center">I write code so entangled it defies locality</h3>
+<h3 align="center">Writing code so entangled it defies locality</h3>
 
 ![](3body.gif)
       
