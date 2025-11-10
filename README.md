@@ -3,9 +3,9 @@
 
 ![](3body.gif)
       
-- ⚙️ Working on **Nonlinear Schrödinger eq., Cubesat attitude control**
+- ⚙️ Working on **Superconducting Circuits, Tensor Networks**
 
-- 📚 Learning **Group Theory, Photonics...**
+- 📚 Learning **Quantum Info, Condensed Matter & Field Theory...**
 
 - 📧 Reach me at **martin.zapata-ferguson@tum.de**
 
