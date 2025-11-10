@@ -7,7 +7,7 @@
 
 - 📚 Learning **Group Theory, Photonics...**
 
-- 📧 Reach me at **martzapa@ucm.es**
+- 📧 Reach me at **martin.zapata-ferguson@tum.de**
 
 - ⚡ Fun fact **Pianist 🎹 & Judoka 🥋**
 
