@@ -9,7 +9,7 @@
 
 📧 Reach me at **martin.zapata-ferguson@tum.de**
 
-⚡ Fun fact **Pianist & Judoka**
+❗️ Fun fact: **Pianist & Judoka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
