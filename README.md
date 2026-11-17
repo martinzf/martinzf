@@ -1,15 +1,10 @@
 <h1 align="center">Hi there, I'm Martin</h1>
-<h3 align="center">Writing code so entangled it defies locality</h3>
 
 ![](3body.gif)
       
-⚙️ Working on **Superconducting Circuits, Tensor Networks**
+⚙️ Working on **Superconducting Circuits, Condensed Matter**
 
-📚 Learning **Quantum Info, Condensed Matter & Field Theory...**
-
-📧 Reach me at **martin.zapata-ferguson@tum.de**
-
-❗️ Fun fact: **Pianist & Judoka**
+📧 Reach me at **martin.zapata-ferguson@tum**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
